@@ -8,7 +8,7 @@ const prefix = ignore.prefix;
 
 
 client.once('ready', () => {
-    console.log('TestBot is online.');
+    console.log('SHEEEEE-BOT is online.');
 });
 
 client.on('message', async message =>{
